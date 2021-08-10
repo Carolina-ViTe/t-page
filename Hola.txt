@@ -1,2 +1,4 @@
 !Hola mundo Git!
-Agrgado a Git para practicar
+Agrgado a Git para practicar.
+
+Este es un nuevo cambio a mi archivo.
